@@ -15,7 +15,7 @@
 
 ### Ryoma Shirakawa / 白川 遼馬
 
-Founder & CDO @ [**RAC**](https://racjp.com) — 合同会社 RAC, Tokyo.
+Founder & CDO @ ReAxis Consulting LLC
 
 ```text
 [ reach ]  shirakawa@racjp.com
