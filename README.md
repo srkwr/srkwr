@@ -1,24 +1,19 @@
 <pre>
-██████                                 ██████
-██                                         ██
-██       ██████╗   █████╗   ██████╗        ██
-██       ██╔══██╗ ██╔══██╗ ██╔════╝        ██
-██       ██████╔╝ ███████║ ██║             ██
-██       ██╔══██╗ ██╔══██║ ██║             ██
-██       ██║  ██║ ██║  ██║ ╚██████╗        ██
-██       ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝        ██
-██                                         ██
-██████                                 ██████
-
-             From idea to scale.
-
-                    — · —
-
-               Ryoma Shirakawa
-                 白川  遼馬
-
-                Founder & CDO
-            ReAxis Consulting LLC
-
-             <a href="mailto:shirakawa@racjp.com">shirakawa@racjp.com</a>
+┌────────────────────────────────────────────────────────────┐
+│                                                  [ RAC ]   │
+│                                                            │
+│                                                            │
+│   Ryoma Shirakawa                                          │
+│   白川 遼馬                                                │
+│                                                            │
+│   Founder & CDO                                            │
+│   ReAxis Consulting LLC                                    │
+│                                                            │
+│   ────────────────────────                                 │
+│                                                            │
+│   email   <a href="mailto:shirakawa@racjp.com">shirakawa@racjp.com</a>                              │
+│   web     <a href="https://racjp.com">racjp.com</a>                                        │
+│                                                            │
+│                                      From idea to scale.   │
+└────────────────────────────────────────────────────────────┘
 </pre>
