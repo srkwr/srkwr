@@ -5,7 +5,7 @@
 │                                                   │
 │                                                   │
 │   Founder & CDO                                   │
-│   ReAxis Consulting/Capital LLC                           │
+│   ReAxis Consulting/Capital LLC                   │
 │                                                   │
 │   ────────────────────────                        │
 │                                                   │
