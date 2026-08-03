@@ -6,7 +6,7 @@
 │   Ryoma Shirakawa                                          │
 │   白川 遼馬                                                  │
 │                                                            │
-│   Founder & CDO                                            │
+│   Co-Founder & CEO                                            │
 │   ReAxis Consulting LLC                                    │
 │                                                            │
 │   ────────────────────────                                 │
