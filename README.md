@@ -7,7 +7,7 @@
 │   白川 遼馬                                                  │
 │                                                            │
 │   Co-Founder & CEO                                         │
-│   ReAxis Consulting LLC                                    │
+│   RAC LLC                                                  │
 │                                                            │
 │   ────────────────────────                                 │
 │                                                            │
