@@ -6,8 +6,8 @@
 │   Ryoma Shirakawa                                          │
 │   白川 遼馬                                                  │
 │                                                            │
-│   Co-Founder & CEO                                         │
 │   RAC LLC                                                  │
+│   Co-Founder & CEO                                         │
 │                                                            │
 │   ────────────────────────                                 │
 │                                                            │
